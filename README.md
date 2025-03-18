@@ -10,12 +10,12 @@
         - Outils : Jupyter, Git, VS Code, Excel
         - Visualisation : Matplotlib, Seaborn, Plotly.
     - 📈 Centres d’intérêt
-      Analyse de données réelles
-      Modélisation statistique et prédictive
-      Séries temporelles et prévision
-      Intelligence artificielle & Machine Learning
+      Analyse de données réelles,
+      Modélisation statistique et prédictive,
+      Séries temporelles et prévision,
+      Intelligence artificielle & Machine Learning,
       Résolution de problèmes avec les mathématiques appliquées
 - 😄 📬 Me contacter
-      💼 LinkedIn ( www.linkedin.com/in/raja-jaouhari-294444266 )
-      📧 Email : raja.jaouhari12@gmail.com
+      - 💼 LinkedIn ( www.linkedin.com/in/raja-jaouhari-294444266 )
+      - 📧 Email : raja.jaouhari12@gmail.com
 

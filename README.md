@@ -17,8 +17,8 @@ Urban mobility, multi-agent systems, smart city modeling, and data-driven decisi
 ⚡ Fun fact
 I’m passionate about how math and AI can transform urban mobility, making cities smarter and more sustainable.
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-jaouhari-294444266)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaimae-chouaa-453600272/)
+
  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raja.jaouhari12@gmail.com)
 
